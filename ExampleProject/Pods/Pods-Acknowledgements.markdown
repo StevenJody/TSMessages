@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## MLUIColorAdditions
+## HexColors
 
 The MIT License (MIT)
 Copyright (c) 2012 Marius Landwehr marius.landwehr@gmail.com

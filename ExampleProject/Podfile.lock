@@ -1,17 +1,17 @@
 PODS:
-  - MLUIColorAdditions (1.0.0)
-  - TSMessages (0.9):
-    - MLUIColorAdditions
+  - HexColors (2.2.1)
+  - TSMessages (0.9.4):
+    - HexColors
 
 DEPENDENCIES:
   - TSMessages (from `..`)
 
 EXTERNAL SOURCES:
   TSMessages:
-    :local: ..
+    :path: ..
 
 SPEC CHECKSUMS:
-  MLUIColorAdditions: c128da8c87b724cdc6c9a1b4cfe8832ca62b8d2a
-  TSMessages: b210370220233cac2a903d134e15ffd66e052b25
+  HexColors: 3a68db077cd6572a8f7d4aa1add284dd2436a934
+  TSMessages: 5ab92604b02e49a755d2cc2baf114d2248a90977
 
-COCOAPODS: 0.18.1
+COCOAPODS: 0.25.0
